@@ -9,4 +9,12 @@
 <a href = "https://github.com/MuguroNgugi/Call-Center-Analysis/blob/main/New%20Screenshot.png"> </A>
 <img src="New Screenshot.png" alt="Dashboard Screenshot" width="1500"/>
 
+## Key Questions and KPIs
+<a href = "https://github.com/MuguroNgugi/Call-Center-Analysis/blob/main/Call%20Center%20Analysis.pptx"> Insights and Analysis Presentation </a>
+
+## Tech Stack
+* Microsoft Excel (Pivot Tables, Charts)
+* Data Visualization (Excel Dashboards)
+* Power Point (Report Writting)
+
 
