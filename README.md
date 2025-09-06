@@ -7,5 +7,5 @@
 
 ## Dashboard Screenshot
 <a href = "https://github.com/MuguroNgugi/Call-Center-Analysis/blob/main/Call%20Center%20Screenshot.png"> </a>
-<img src="Call Centre Screenshot.png" alt="Dashboard Screenshot" width="1500"/>
+
 
